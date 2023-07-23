@@ -1,0 +1,1 @@
+Salve, primo file di esempio 
